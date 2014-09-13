@@ -27,8 +27,8 @@ var pawneeEmployees = [
         picUrl: 'img/ludgate.jpg'
     },
     {
-        firstName: 'Meagle',
-        lastName: 'Donna',
+        firstName: 'Donna',
+        lastName: 'Meagle',
         title: 'Permits Secretary',
         department: 'Parks',
         phone: '555-1114',
@@ -36,7 +36,7 @@ var pawneeEmployees = [
         picUrl: 'img/meagle.jpg'
     },
     {
-        firstName: 'Jerry',
+        firstName: 'Jerry (Gerry, Gary, Larry, Terry)',
         lastName: 'Gergich',
         title: 'Office Manager',
         department: 'Parks',
